@@ -1,7 +1,7 @@
 # Health Tick Assignment
 
 This Flutter app serves as a simple countdown timer. The timer is set to 30 seconds, and upon completion, it automatically navigates to the next page.
-
+optimised for iphone 15 pro max.
 
 ## Getting Started
 

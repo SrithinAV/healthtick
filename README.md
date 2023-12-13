@@ -1,16 +1,27 @@
-# healthtick
+# Health Tick Assignment
 
-A new Flutter project.
+This Flutter app serves as a simple countdown timer. The timer is set to 30 seconds, and upon completion, it automatically navigates to the next page.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project locally, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+   git clone https://github.com/your-username/flutter-project.git
+   cd flutter-project
+   flutter pub get
+   flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+This project relies on the following external package:
+
+audioplayers: A Flutter plugin to play audio files.
+To install the dependencies, run:
+
+```bash
+flutter pub get
+
+

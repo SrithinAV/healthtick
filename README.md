@@ -11,7 +11,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/SrithinAV/healthtick.git
-   cd flutter-project
+   cd healthtick
    flutter pub get
    flutter run
 
